@@ -2,7 +2,7 @@ title:            Site Title
 description:      Describe your website here.
 disqus_shortname: 
 #Comment out url when working locally to resolve base urls correctly
-url:              www.lucces.tk
+url:              http://www.lucces.tk
 
 # Owner/author information
 owner:
