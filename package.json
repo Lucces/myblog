@@ -1,13 +1,13 @@
 {
-  "name": "hpstr-theme",
-  "author": "Michael Rose <michael@mademistakes.com>",
-  "homepage": "http://mmistakes.github.io/hpstr-jekyll-theme/",
+  "name": "Mingcan's blog",
+  "author": "Mingcan",
+  "homepage": "http://Lucces.github.io/myblog/",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/hpstr-jekyll-theme.git"
+    "url": "git://github.com/Lucces/myblog.git"
   },
   "bugs": {
-    "url": "https://github.com/mmistakes/hpstr-jekyll-theme/issues"
+    "url": "https://github.com/Lucces/myblog/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
