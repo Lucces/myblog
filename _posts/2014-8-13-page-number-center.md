@@ -25,10 +25,10 @@ share: true
 			int endPageNo = Math.min(startPageNo + count - 1, totalPage);
 	 
 			if (endPageNo - startPageNo < count) {
-				startPageNo = Math.max(endPageNo - count, 1);
+				startPageNo = Math.max(endPageNo - count + 1, 1);
 			}
 	 
-			List<Integer> result = new ArrayList<Integer>;
+			List<Integer> result = new ArrayList<Integer>();
 			for (int i = startPageNo; i <= endPageNo; i++) {
 				result.add(i);
 			}
