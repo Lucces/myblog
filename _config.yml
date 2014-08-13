@@ -1,13 +1,13 @@
 title:            Mingcan's Blog
 description:      This is my blog,my name is Mingcan.
 #Comment out url when working locally to resolve base urls correctly
-url:              http://www.lucces.tk
+url:              http://mingcanit.tk
 
 # Owner/author information
 owner:
   name:           Ming can
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good two sentences or two should suffice."
+  bio:            "Hello everybody,I'm Mingcan,if you want to know me more you can fllow me on twitter and facebook and github!"
  
 
 # Background image to be tiled on all pages
