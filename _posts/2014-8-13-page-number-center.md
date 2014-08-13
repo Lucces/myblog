@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Download by java Thread"
-description: "Download by java Thread."
+title: "page number"
+description: "put the number of current page in the center."
 tags: [sample post, technology]
 modified: 2014-08-13
 image:
