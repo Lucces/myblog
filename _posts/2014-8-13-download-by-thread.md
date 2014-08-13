@@ -13,8 +13,9 @@ share: true
 ---
 
 
-## 利用java多线程进行下载
-### 创建一个利用多线程下载的方法类
+## 利用java多线程进行下载 ##
+
+### 创建一个利用多线程下载的方法类 ###
 {% highlight java %}
 	package com.mingcanit.test;
 	 
