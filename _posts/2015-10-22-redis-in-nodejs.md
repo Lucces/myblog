@@ -1,6 +1,6 @@
 ---
 layout: post
-title: “Practice advanced about redis”
+title: “redis in nodejs”
 description: “关于redis的个人总结”
 tags: [sample post, code]
 modified: 2015-04-28
